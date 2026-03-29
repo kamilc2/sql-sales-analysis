@@ -1,2 +1,2 @@
 # sql-sales-analysis
-SQL project created to practice data analysis and business queries.
+SQL data analysis project analyzing sales performance, customer behavior and business KPIs.
